@@ -11,9 +11,10 @@
   - [Comptia Security+](https://www.credly.com/badges/97591581-e376-47d0-a3d2-ee969191c1b6/public_url)
   
 <h2> 🌱 I’m currently learning:</h2>
-- [ Information Security Strategies and Policies ]
-- [ Cloud Security ]
-- [ Network Security ]
+
+  - Cloud Security
+  - Information Security Strategies and Policies 
+  - Network Security
 
 <h2> 🤳 Connect with me:</h2>
 
