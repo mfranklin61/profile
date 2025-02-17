@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Project1](https://github.com/mfranklin61)
-  - [Project2](https://github.com/mfranklin61)
-  - [Project3](https://github.com/mfranklin61)
+  - [Network Security](https://github.com/mfranklin61)
+  - [Jersey City Masters](https://github.com/mfranklin61)
+  - [Information Security](https://github.com/mfranklin61)
+  - [Policies](https://github.com/mfranklin61)
 
 <h2>🗒️ Certifications:</h2>
 
@@ -18,6 +19,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Morgan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/morgan-franklin
+[linkedin]:https://linkedin.com/in/morgan-franklin
