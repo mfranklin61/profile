@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Network Security](https://github.com/mfranklin61)
-  - [Jersey City Masters](https://github.com/mfranklin61)
-  - [Information Security](https://github.com/mfranklin61)
-  - [Policies](https://github.com/mfranklin61)
+  
+  - [Jersey City Masters](https://github.com/mfranklin61/JCMasters)
+  - [Cloud](https://github.com/mfranklin61/aws-Projects)
+  - [Network Security](https://github.com/mfranklin61/Network-Security)
+  - [Information Security](https://github.com/mfranklin61/Information-Security)
+  - [Policies](https://github.com/mfranklin61/Policies)
 
 <h2>🗒️ Certifications:</h2>
 
